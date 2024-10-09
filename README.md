@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HASESY&fontAlignY=35)
 
-![hasesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasesy&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasesy&layout=compact&title_color=ffffff&bg_color=0d1117)
+![hasesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasesy&show_icons=true&theme=midnight-purple&bg_color=212830&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasesy&layout=compact&title_color=ffffff&bg_color=212830&hide_border=true)
 
 ### 🔧 Tech Stack
 

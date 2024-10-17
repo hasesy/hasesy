@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HASESY&fontAlignY=35)
 
-![hasesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasesy&show_icons=true&theme=midnight-purple&bg_color=212830&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasesy&layout=compact&title_color=ffffff&bg_color=212830&hide_border=true)
-
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
 #### Frontend
 <div align="left">
@@ -33,3 +31,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </div>
+
+<br><br>
+
+## 🔥 GitHub Stats
+![hasesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasesy&show_icons=true&theme=midnight-purple&bg_color=212830&hide_border=true)
+
+<br>
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasesy&layout=compact&title_color=ffffff&bg_color=212830&hide_border=true)
+
+
